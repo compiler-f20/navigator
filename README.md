@@ -16,7 +16,8 @@ Quick links to repos
 |||
 |:-:|:-:|
 | invisible-hand | [compiler-f19/invisible-hand](https://github.com/compiler-f19/invisible-hand)|
-| website-source | [compiler-f19/course-website](https://github.com/compiler-f19/course-website)|
+| website-source | [compiler-f19/website](https://github.com/compiler-f19/course-website)|
+| inservice-website-source | [compiler-f19/website-inservice](https://github.com/compiler-s20/in-service)|
 | f19 docs| [compiler-f19/docs](https://github.com/compiler-f19/docs)|
 
 ### Homework repos
