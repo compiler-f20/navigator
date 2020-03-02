@@ -6,9 +6,10 @@ Quick links to repos
 
 |||
 |:-:|:-:|
-|Discussion board|[compiler-f19/Discussion](https://github.com/compiler-f19/Discussion)|
-|Website|[compiler-f19.github.io](https://github.com/compiler-f19/compiler-f19.github.io)|
-|Private Resource|[compiler-f19/private](https://github.com/compiler-f19/Compiler-f19-private)|
+|Discussion board|[compiler-s20/Discussion](https://github.com/compiler-s20/discussion)|
+|Website|[compiler-s20.github.io](https://compiler-s20.github.io)|
+|Website for in-servie student|[compiler-s20.github.io/in-service](https://compiler-s20.github.io/in-service)|
+|Private Resources|[compiler-s20/private](https://github.com/compiler-s20/private)|
 
 
 ## Links for teaching team
