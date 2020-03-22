@@ -6,20 +6,21 @@ Quick links to repos
 
 |||
 |:-:|:-:|
-|Discussion board|[compiler-s20/Discussion](https://github.com/compiler-s20/discussion)|
-|Website|[compiler-s20.github.io](https://compiler-s20.github.io)|
-|Website for in-servie student|[compiler-s20.github.io/in-service](https://compiler-s20.github.io/in-service)|
-|Private Resources|[compiler-s20/private](https://github.com/compiler-s20/private)|
+| Discussion board | [compiler-s20/Discussion](https://github.com/compiler-s20/discussion) |
+| Website | [compiler-s20.github.io](https://compiler-s20.github.io) |
+| Website for in-servie student | [compiler-s20.github.io/in-service](https://compiler-s20.github.io/in-service) |
+| Private Resources | [compiler-s20/private](https://github.com/compiler-s20/private) |
 
 
 ## Links for teaching team
 
 |||
 |:-:|:-:|
-| invisible-hand | [compiler-f19/invisible-hand](https://github.com/compiler-f19/invisible-hand)|
-| website-source | [compiler-s20/website](https://github.com/compiler-s20/website)|
-| inservice-website-source | [compiler-s20/website-inservice](https://github.com/compiler-s20/website-inservice)|
-| f19 docs| [compiler-f19/docs](https://github.com/compiler-f19/docs)|
+| invisible-hand | [compiler-f19/invisible-hand](https://github.com/compiler-f19/invisible-hand) |
+| hw-manager | [compiler-s20/Hw-manager](https://github.com/compiler-s20/Hw-manager) |
+| website-source | [compiler-s20/website](https://github.com/compiler-s20/website) |
+| inservice-website-source | [compiler-s20/website-inservice](https://github.com/compiler-s20/website-inservice) |
+| f19 docs | [compiler-f19/docs](https://github.com/compiler-f19/docs) |
 
 ### Homework repos
 
