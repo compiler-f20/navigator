@@ -26,9 +26,9 @@ Quick links to repos
 
 |title|template repo|revise repo|
 |:-:|:-:|:-:|
-|hw0|[tmpl-hw0](https://github.com/compiler-f19/tmpl-hw0)|[tmpl-hw0-revise](https://github.com/compiler-f19/tmpl-hw0-revise)|
-|hw1|[tmpl-hw1](https://github.com/compiler-f19/tmpl-hw1)|[tmpl-hw1-revise](https://github.com/compiler-f19/tmpl-hw1-revise)|
-|hw2|[tmpl-hw2](https://github.com/compiler-f19/tmpl-hw2)|[tmpl-hw2-revise](https://github.com/compiler-f19/tmpl-hw2-revise)|
-|hw3|[tmpl-hw3](https://github.com/compiler-f19/tmpl-hw3)|[tmpl-hw3-revise](https://github.com/compiler-f19/tmpl-hw3-revise)|
-|hw4|[tmpl-hw4](https://github.com/compiler-f19/tmpl-hw4)|[tmpl-hw4-revise](https://github.com/compiler-f19/tmpl-hw4-revise)|
-|hw5|[tmpl-hw5](https://github.com/compiler-f19/tmpl-hw5)|[tmpl-hw5-revise](https://github.com/compiler-f19/tmpl-hw5-revise)|
+|hw0|[tmpl-hw0](https://github.com/compiler-f20/tmpl-hw0)|[tmpl-hw0-revise](https://github.com/compiler-f19/tmpl-hw0-revise)|
+|hw1|[tmpl-hw1](https://github.com/compiler-f20/tmpl-hw1)|[tmpl-hw1-revise](https://github.com/compiler-f19/tmpl-hw1-revise)|
+|hw2|[tmpl-hw2](https://github.com/compiler-f20/tmpl-hw2)|[tmpl-hw2-revise](https://github.com/compiler-f19/tmpl-hw2-revise)|
+|hw3|[tmpl-hw3](https://github.com/compiler-f20/tmpl-hw3)|[tmpl-hw3-revise](https://github.com/compiler-f19/tmpl-hw3-revise)|
+|hw4|[tmpl-hw4](https://github.com/compiler-f20/tmpl-hw4)|[tmpl-hw4-revise](https://github.com/compiler-f19/tmpl-hw4-revise)|
+|hw5|[tmpl-hw5](https://github.com/compiler-f20/tmpl-hw5)|[tmpl-hw5-revise](https://github.com/compiler-f19/tmpl-hw5-revise)|
